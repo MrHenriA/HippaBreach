@@ -9,7 +9,8 @@
 
 
 - Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
-  Seems like a good one http://www.databaseanswers.org/data_models/tracking_software_problems/index.htm![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
+  Seems like a good one http://www.databaseanswers.org/data_models/tracking_software_problems/index.htm
+- ![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
 
 ## <div style="text-align: center"> Combined data files in Pandas because I was familiar with handling data files in it </div>
 
