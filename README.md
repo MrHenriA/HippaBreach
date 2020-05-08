@@ -1,7 +1,7 @@
 # HIPPA Data Breach Project
 
 
-# Data Breach Project
+ ## Data Breach Project
 ### [Live Demo](https://mrhenrya.github.io/HippaBreach/)
 
 ## Beginning Research
