@@ -26,7 +26,7 @@ files = [file for file in os.listdir('/Users/SU200239619/Desktop/DataScience/dat
 all_breaches_data = pd.DataFrame()
 
 for file in files:
-    df = pd.read_csv("/Users/SU200239619/Desktop/DataScience/data/hipaa-data-breaches/"+file)
+    df = pd.read_csv("/data/hipaa-data-breaches/"+file)
     all_breaches_data = pd.concat([all_breaches_data,df])
 
 all_breaches_data.to_csv("all_breaches.csv",index=False)
