@@ -1,5 +1,5 @@
 # HIPPA Data Breach Project
-### [Github Repo](https://github.com/MrHenryA/HippaBreach)
+
 
 # Data Breach Project
 ### [Live Demo](https://mrhenrya.github.io/HippaBreach/)
