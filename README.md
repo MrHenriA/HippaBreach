@@ -134,13 +134,12 @@ all_breaches.head()
 
 
 
-```python
 
-```
-
-- I came up with a data model of such:
-  - ![model](https://i.imgur.com/Ng1KpW7.png)
+## I came up with a data model of such:
+   ![model](https://i.imgur.com/Ng1KpW7.png)
 - I believe this accomplished what I needed to do. This allowed to show breach dates in a broader date range. It allowed me to show regions and states with most breaches/people affected. What time of breach data was exposed and most common breach type. What organizations were hit harder / what businessess and quite a bit more.
 - Now I try to figure out best visualizations / insights that I can come up with using this data
-  - ![model](https://i.imgur.com/GRF2Kub.gif)
+ ![model](https://i.imgur.com/GRF2Kub.gif)
 
+### Result:
+- At the end of the day I was able to come up with this [Report](https://mrhenrya.github.io/HippaBreach/)
