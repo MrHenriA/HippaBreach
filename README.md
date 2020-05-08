@@ -12,9 +12,9 @@
 
 - Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
   Seems like a good one http://www.databaseanswers.org/data_models/tracking_software_problems/index.htm
-- ![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
+ ![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
 
-## <div style="text-align: center"> Combined data files in Pandas because I was familiar with handling data files in it </div>
+## Using Pandas to handle data files
 
 
 ```python
@@ -140,6 +140,7 @@ all_breaches.head()
 ## I came up with a data model of such:
    ![model](https://i.imgur.com/Ng1KpW7.png)
 - I believe this accomplished what I needed to do. This allowed to show breach dates in a broader date range. It allowed me to show regions and states with most breaches/people affected. What time of breach data was exposed and most common breach type. What organizations were hit harder / what businessess and quite a bit more.
+## Visualization 
 - Now I try to figure out best visualizations / insights that I can come up with using this data
  ![model](https://i.imgur.com/GRF2Kub.gif)
 
