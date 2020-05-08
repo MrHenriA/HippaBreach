@@ -162,4 +162,5 @@ all_breaches.head()
  ![model](https://i.imgur.com/GRF2Kub.gif)
 
 ### Result:
-- At the end of the day I was able to come up with this [Report](https://mrhenrya.github.io/HippaBreach/)
+- At the end of the day I was able to come up with this <a href="https://mrhenrya.github.io/HippaBreach" target="_blank">Report</a>
+
