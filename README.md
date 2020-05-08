@@ -19,9 +19,9 @@ import os
 
 
 ```python
-df = pd.read_csv("/Users/SU200239619/Desktop/DataScience/data/hipaa-data-breaches/recent-breach_report.csv")
+df = pd.read_csv("/data/hipaa-data-breaches/recent-breach_report.csv")
 
-files = [file for file in os.listdir('/Users/SU200239619/Desktop/DataScience/data/hipaa-data-breaches')]
+files = [file for file in os.listdir('/data/hipaa-data-breaches')]
 
 all_breaches_data = pd.DataFrame()
 
