@@ -1,5 +1,7 @@
 # Data Breach Project
+### [Live Demo](https://mrhenrya.github.io/HippaBreach/)
 
+## Beginning Research
 - [Retrieved data from kaggle](https://www.kaggle.com/forgotyourpassword/hipaa-data-breaches)
 - [Retrieved additional recent data from HHS](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf)
 - Data Schema layouts notes![Data Schema](https://i.imgur.com/oQS01eO.png)
