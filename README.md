@@ -6,13 +6,6 @@
 - [Retrieved additional recent data from HHS](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf)
 - Data Schema layouts notes![Data Schema](https://i.imgur.com/oQS01eO.png)
 
-| Business | State | Organization | People Affected | Breach  Date | Type of Breach | Breach Attack |
-| -------- | ----- | ------------ | --------------- | ------------ | -------------- | ------------- |
-
-
-- Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
-  Seems like a good one http://www.databaseanswers.org/data_models/tracking_software_problems/index.htm
- ![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
 
 ## Using Pandas to handle data files
 
@@ -132,6 +125,16 @@ all_breaches.head()
   </tbody>
 </table>
 </div>
+
+- Renamed and removed some columns and ended up with this
+
+| Business | State | Organization | People Affected | Breach  Date | Type of Breach | Breach Attack |
+| -------- | ----- | ------------ | --------------- | ------------ | -------------- | ------------- |
+
+
+- Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
+  Seems like a good one http://www.databaseanswers.org/data_models/tracking_software_problems/index.htm
+ ![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
 
 
 
