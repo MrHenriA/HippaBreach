@@ -2,7 +2,7 @@
 
 
  ## Data Breach Project
-### [Live Demo](https://mrhenrya.github.io/HippaBreach/)
+### [Live Demo](https://mrhenria.github.io/HippaBreach/)
 
 ## Beginning Research
 - [Retrieved data from kaggle](https://www.kaggle.com/forgotyourpassword/hipaa-data-breaches)
@@ -162,4 +162,4 @@ all_breaches.head()
  ![model](https://i.imgur.com/GRF2Kub.gif)
 
 ### Result:
-- At the end of the day I was able to come up with this [Demo](https://mrhenrya.github.io/HippaBreach)
+- At the end of the day I was able to come up with this [Demo](https://mrhenria.github.io/HippaBreach)
