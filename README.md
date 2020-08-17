@@ -146,7 +146,7 @@ all_breaches.head()
     </table>
 
 
-- Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
+- Tried to figure out a data schema that will best suit this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
   Seems like a good one http://www.databaseanswers.org/data_models/tracking_software_problems/index.htm
  ![software issue](http://www.databaseanswers.org/data_models/tracking_software_problems/images/tracking_software_problems_dezign.gif) 
 
