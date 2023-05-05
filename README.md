@@ -1,4 +1,4 @@
-# HIPPA Data Breach Project
+# HIPAA Data Breach Project
 
 
  ## Data Breach Project
